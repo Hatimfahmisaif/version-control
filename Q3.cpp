@@ -2,7 +2,7 @@
 
 
 int main() {
-    float x, y;
+    double x, y;
     std::cout << "Please enter two numbers: ";
     std::cin >> x >> y;
     std::cout << "\nThe sum of " << x << " and " << y << " is " << x + y << std::endl;
